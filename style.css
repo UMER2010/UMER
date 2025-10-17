@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    /* margin: 0;
     padding: 0;
 }
 body{
@@ -28,4 +28,8 @@ input{
 }
 button{
     margin-top: 30px;
-}
+} */
+ h1{
+    background-color: black;
+    color: aquamarine;
+ }
